@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=8KCQe9Pm1kg
+
+https://www.youtube.com/watch?v=xuB1Id2Wxak
+
+.gitignore
+    *.log
+    
