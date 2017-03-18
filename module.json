@@ -1,0 +1,15 @@
+{
+  "name": "microbit-motordriver",
+  "version": "0.0.0",
+  "description": "for testing the kitronik mircobit motor driver v2.0",
+  "keywords": [
+    "microbit",
+    "kitronik",
+    "motordriver"
+  ],
+  "author": "MarcBnl",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "microbit": "^2.0.0-rc8"
+  }
+}

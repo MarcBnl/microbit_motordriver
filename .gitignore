@@ -1,1 +1,3 @@
 *.log
+yotta_modules/
+yotta_targets/
