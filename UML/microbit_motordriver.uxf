@@ -4,8 +4,8 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>130</x>
-      <y>310</y>
+      <x>620</x>
+      <y>370</y>
       <w>140</w>
       <h>140</h>
     </coordinates>
@@ -23,8 +23,8 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>160</x>
-      <y>120</y>
+      <x>650</x>
+      <y>180</y>
       <w>110</w>
       <h>120</h>
     </coordinates>
@@ -41,8 +41,8 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>190</x>
-      <y>230</y>
+      <x>680</x>
+      <y>290</y>
       <w>40</w>
       <h>100</h>
     </coordinates>
@@ -53,10 +53,10 @@ m1=2</panel_attributes>
   <element>
     <id>UMLInterface</id>
     <coordinates>
-      <x>20</x>
-      <y>60</y>
-      <w>100</w>
-      <h>150</h>
+      <x>520</x>
+      <y>120</y>
+      <w>80</w>
+      <h>130</h>
     </coordinates>
     <panel_attributes>MotorsService
 --
@@ -70,8 +70,8 @@ brake</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>70</x>
-      <y>70</y>
+      <x>560</x>
+      <y>130</y>
       <w>160</w>
       <h>70</h>
     </coordinates>
